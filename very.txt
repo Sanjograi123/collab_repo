@@ -1,0 +1,17 @@
+
+VPS
+VPS for web devs
+Jun 09, 2025
+
+Dominykas J.
+
+7min Read
+
+What is VS Code: an overview of the popular code editor and its features
+What is VS Code: an overview of the popular code editor and its features
+Visual Studio Code, commonly known as VS Code, is a free and lightweight code editor that has rapidly emerged as one of the most popular tools for developers of all skill levels across a range of programming languages.
+
+Its simplicity, versatility, and advanced features have earned it a top spot in developer surveys and widespread adoption across industries. With its rich ecosystem of extensions, intuitive user interface, and powerful built-in features, VS Code aims to streamline the coding process and enhance productivity.
+
+Whether you’re a beginner dipping your toes into programming or a seasoned developer searching for a flexible tool, this article will guide you through its core features, why it’s so popular, and how it can streamline your coding experience.
+
