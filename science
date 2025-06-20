@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My First Webpage</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a simple paragraph to introduce the page.</p>
+  <a href="https://example.com">Visit Example</a>
+</body>
+</html>
+Let me know if you’re looking for something more specific—like a form, a
