@@ -1,1 +1,38 @@
-# collab_repo
+
+<head>
+<title> html form</title>
+</head>
+<body>
+<h1>Students Registration Form</h1><hr><hr>
+<div style="width:500px;height:500px;background-color:yellow;padding:10px;">
+<form name="formEntry" id="formEntry" action="processor.html" method="post">
+First Name:
+<input type ="text" value = "First Name">
+<br><br>
+Middle Name:
+<input type ="text" value = "Middle Name"><br><br>
+Last Name:
+<input type ="text" value = "Last name"><br><br>
+Gender:
+<input type ="radio" name = "gender"id="male">
+<label for ="male">Male</label>
+<input type ="radio" name = "gender"id="female">
+<label for ="female">Female</label><br>
+<h2>In Which Course Do You Want To Join?</h2>
+<input type ="checkbox" name ="course" id ="Hardware">
+<label for ="hardware"> Hardware</label>
+<input type ="checkbox" name ="course" id ="webpage">
+<label for ="webpage"> Webpage</label>
+<input type ="checkbox" name ="course" id ="network">
+<label for ="network"> Network</label><br>
+<input type ="checkbox" name ="course" id ="c_language">
+<label for ="c language"> C-Language</label>
+<input type ="checkbox" name ="course" id ="java">
+<label for ="java"> Java</label>
+<input type ="checkbox" name ="course" id ="css">
+<label for ="css"> CSS</label><br><br>
+<input type ="submit" value = "submit">
+<input type ="reset" value ="reset">
+</form>
+</head>
+</html>
